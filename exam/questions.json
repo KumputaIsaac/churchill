@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card?",
+    "choice1": "Subscriber",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "Which American president appears on a one dollar bill?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "George Washington",
+    "answer": 4
+  },
+  {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is &quot;dabbing&quot;?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "A dance",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": " What is the Spanish word for &quot;donkey&quot;?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "Burro",
+    "choice4": "alert('Hello World');",
+    "answer": 3
+  },
+  {
+    "question": "What is the largest organ of the human body?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "Skin;",
+    "answer": 4
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": "When someone is cowardly, they are said to have what color belly?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "Yellow;",
+    "answer": 4
+  },
+  {
+    "question": " What is the profession of Elon Musk's mom, Maye Musk?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "Model",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 2
+  },
+  {
+    "question": "In past times, what would a gentleman keep in his fob pocket?",
+    "choice1": "Watch;",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 1
+  }
+]
